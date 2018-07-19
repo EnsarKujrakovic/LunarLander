@@ -1,0 +1,11 @@
+#include "include/resource.h"
+
+IDB_BITMAP1        BITMAP         "images/lunarlander.bmp"
+IDB_BITMAP2        BITMAP         "images/lunarlandermask.bmp"
+IDB_BITMAP3        BITMAP         "images/explosion.bmp"
+IDB_BITMAP4        BITMAP         "images/explosionmask.bmp"
+IDB_BITMAP5        BITMAP         "images/background.bmp"
+IDI_ICON1          ICON           "images/icon.ico"
+
+IDS_WAVE1          WAVE           "sounds/explosion.wav"
+IDS_WAVE2          WAVE           "sounds/intro.wav"
